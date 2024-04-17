@@ -1,0 +1,27 @@
+body {
+  font-size: 20px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+  color: red;
+}
+.class {
+  color: black;
+}
+#id {
+  color: green;
+}
+li[title="title"] {
+  color: blue;
+}
+/* * {
+  color: black;
+} */
